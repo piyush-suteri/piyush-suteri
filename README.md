@@ -21,4 +21,4 @@ I've independently designed, developed, and implemented several hardware and sof
 **3. Automation & Robotics:**
  - Developed multiple robotics platforms, including obstacle avoidance, line and object-following, and Bluetooth/Wi-Fi controlled robots (utilizing ESP8266 NodeMCU).
 
-Beyond engineering, I explore physics and mathematics with a rigorous and analytical approach, applying first-principles thinking to understand concepts deeply. (You can find examples of my work in my **Academic Articles** repository.)
+Beyond engineering, I explore physics and mathematics with a rigorous and analytical approach, applying first-principles thinking to understand concepts deeply. (You can find examples of my work in my [Academic Articles](https://github.com/piyush-suteri/Academic-Articles) repository.)
