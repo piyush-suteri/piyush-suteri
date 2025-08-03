@@ -6,7 +6,6 @@ I'm proficient in Python, Arduino, Web Development, Electronics, CAD Design, and
 
 I've independently designed, developed, and implemented several hardware and software projects. My approach emphasizes creative problem-solving, building unique solutions, and resourcefulness.
 
----
 ## My Key Projects:
 
 **1. AI-Powered Computer Control System:**
@@ -20,9 +19,6 @@ I've independently designed, developed, and implemented several hardware and sof
  - [View on Instructables](https://www.instructables.com/DIY-CNC-Drawing-Machine-With-Arduino-and-28byj-48-/)
 
 **3. Automation & Robotics:**
- • Developed multiple robotics platforms, including obstacle avoidance, line and object-following, and Bluetooth/Wi-Fi controlled robots (utilizing ESP8266 NodeMCU).
- • Built an Arduino-based Home Automation system for remote control of devices.
- 
----
+ - Developed multiple robotics platforms, including obstacle avoidance, line and object-following, and Bluetooth/Wi-Fi controlled robots (utilizing ESP8266 NodeMCU).
 
 Beyond engineering, I explore physics and mathematics with a rigorous and analytical approach, applying first-principles thinking to understand concepts deeply. (You can find examples of my work in my **Academic Articles** repository.)
