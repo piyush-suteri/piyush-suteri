@@ -4,7 +4,7 @@ I'm Piyush, and this is where I document my journey into the fascinating worlds 
 
 I'm proficient in Python, Arduino, Web Development, Electronics, CAD Design, and Generative AI, providing a versatile toolkit for my diverse creations. Additionally, I have a strong passion for physics and mathematics. I find immense joy in hands-on creation, from Arduino projects and coding to continuous learning.
 
-I've independently designed, developed, and implemented several hardware and software projects, showcasing expertise in embedded systems, robotics, and artificial intelligence. My work emphasizes practical application, creative problem-solving, and resourcefulness.
+I've independently designed, developed, and implemented several hardware and software projects. My approach emphasizes creative problem-solving, building unique solutions, and resourcefulness.
 
 ---
 ## My Key Projects:
